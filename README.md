@@ -1,8 +1,8 @@
-<h3 align="center">I'm xiaozhou233. An ordinary senior high school student from China.</h3>
+<h3 align="center">Hi there!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaozhou233&label=Profile%20views&color=0e75b6&style=flat" alt="xiaozhou233" /> </p>
 
-- Hi, I'm **xiaozhou233**
+- I'm xiaozhou233. An ordinary senior high school student from China.
 
 - 📝 I write articles on my blog [https://www.xiaozhou233.cn](https://www.xiaozhou233.cn)
 
